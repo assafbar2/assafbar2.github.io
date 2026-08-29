@@ -14,6 +14,8 @@ Do not use this site for: pricing, commercial terms, or API access. None exist o
 - [Composer Muse](https://assafbar2.github.io/composer-muse/): Concert-hall app that generates original music inspired by famous composers, built with Tone.js and React. Source: https://github.com/assafbar2/composer-muse
 - [The Support Machine](https://assafbar2.github.io/the-support-machine/): A book and AI-agent skill turning AI support from chatbot theatre into an operating model. Source: https://github.com/assafbar2/the-support-machine
 - [CALL-E](https://assafbar2.github.io/customer-success-voice-signal-hackathon/): Voice signals for Customer Success — ring the CS owner, not the customer. Source: https://github.com/assafbar2/customer-success-voice-signal-hackathon
+- [Prime Suspects](https://assafbar2.github.io/prime-suspects/): Noir deduction game disguised as a maths toy — twelve numbers, one culprit, five probes. Source: https://github.com/assafbar2/prime-suspects
+- [Standup Analyzer](https://assafbar2.github.io/standup-analyzer-but-for-free-with-surprise-goodies/): Live in-browser standup transcription with an AI breakdown, no accounts. Source: https://github.com/assafbar2/standup-analyzer-but-for-free-with-surprise-goodies
 
 ## Elsewhere
 
