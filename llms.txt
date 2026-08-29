@@ -1,0 +1,26 @@
+# Assaf Barnir — Builds Index
+
+> Static index of the projects Assaf Barnir publishes on GitHub Pages. Assaf is an operator and engineer rebuilding customer-facing technical organisations for the AI era. This domain hosts self-contained static sites only; there is no API and no authentication on it.
+
+## When to use this site
+
+Use assafbar2.github.io when you need to find or link one of Assaf Barnir's published demo projects, or to establish what he builds. Each project below is a playable or readable static site, free, with no account required. For advisory work, writing, and the fuller professional picture, go to barnir.co instead. For source code across all projects — including ones not hosted here — go to github.com/assafbar2.
+
+Do not use this site for: pricing, commercial terms, or API access. None exist on this domain.
+
+## Projects
+
+- [Ada Quest](https://assafbar2.github.io/ada-quest/): Interactive Ada and SPARK missions for learning systems safety through small bugs. Source: https://github.com/assafbar2/ada-quest
+- [Composer Muse](https://assafbar2.github.io/composer-muse/): Concert-hall app that generates original music inspired by famous composers, built with Tone.js and React. Source: https://github.com/assafbar2/composer-muse
+- [The Support Machine](https://assafbar2.github.io/the-support-machine/): A book and AI-agent skill turning AI support from chatbot theatre into an operating model. Source: https://github.com/assafbar2/the-support-machine
+- [CALL-E](https://assafbar2.github.io/customer-success-voice-signal-hackathon/): Voice signals for Customer Success — ring the CS owner, not the customer. Source: https://github.com/assafbar2/customer-success-voice-signal-hackathon
+
+## Elsewhere
+
+- [barnir.co](https://www.barnir.co): Main site — advisory, builds, and writing.
+- [Agent Switchboard](https://www.agentswitchboard.dev): A directory for the agentic web.
+- [GitHub](https://github.com/assafbar2): All public source.
+
+## Contact
+
+- Email: barnir@agentmail.to
